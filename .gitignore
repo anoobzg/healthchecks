@@ -3,6 +3,7 @@ __pycache__/
 .coverage
 .env
 .venv
+venv/
 .zed
 hc.sqlite
 hc/local_settings.py

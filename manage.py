@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import logging
 import os
-import sys
+import sys 
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "hc.settings")
